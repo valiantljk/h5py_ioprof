@@ -1,5 +1,5 @@
 # h5py_ioprof
-Profiling H5py IO performance with Darshan
+Profiling H5py IO performance with Darshan on Cori at NERSC/LBNL, CA, USA. 
 
 Still exploring, not working now. 
 
